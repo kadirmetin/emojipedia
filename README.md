@@ -9,6 +9,7 @@ React based emoji search engine. Search emoji and copy to use. It's all.
 <p align="center">
 <img src="https://media2.giphy.com/media/3eVWK4wwsupueOdlBs/giphy.gif" alt="Tryyyy"/>
 </p>
-## Lisans
+
+## Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
