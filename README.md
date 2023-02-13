@@ -10,6 +10,6 @@ React based emoji search engine. Search emoji and copy to use. It's all.
 <img src="https://media2.giphy.com/media/3eVWK4wwsupueOdlBs/giphy.gif" alt="Tryyyy"/>
 </p>
 
-## Licence
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
